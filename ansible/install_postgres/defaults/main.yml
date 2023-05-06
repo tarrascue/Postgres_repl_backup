@@ -1,0 +1,3 @@
+---
+# defaults file for install_postgres
+disable_yum_gpg_check: true
